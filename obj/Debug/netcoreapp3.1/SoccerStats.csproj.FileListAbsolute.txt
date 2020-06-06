@@ -11,3 +11,4 @@ C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\Soc
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.dll
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.pdb
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.genruntimeconfig.cache
+C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\SoccerGameResults.csv
