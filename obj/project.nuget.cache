@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ONBcXueVNVFP0QAcXo57PvgJqsqXMkQDcKrfAKVBZ582+w0PF45xwx7g50YgjC+qSwN3fYMF8342fB71zecsYw==",
+  "dgSpecHash": "KqFx3LhtppgqRT6BvFNOWsBplGWT5v0eJP3dBY/1i1YsFMAlDJn1S4h1dYIEr5gHazYwvhE0jUktz+ZF2H3piw==",
   "success": true,
   "projectFilePath": "C:\\Users\\joshu\\CodeLouisville\\SoccerStatsApplication\\SoccerStats.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\joshu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\joshu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

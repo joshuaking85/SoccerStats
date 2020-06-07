@@ -5,10 +5,13 @@ C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\Soc
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\SoccerStats.dll
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\SoccerStats.pdb
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.csprojAssemblyReference.cache
-C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.csproj.CoreCompileInputs.cache
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.AssemblyInfoInputs.cache
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.AssemblyInfo.cs
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.dll
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.pdb
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.genruntimeconfig.cache
 C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\SoccerGameResults.csv
+C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\players.json
+C:\Users\joshu\CodeLouisville\SoccerStatsApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.csproj.CoreCompileInputs.cache
+C:\Users\joshu\CodeLouisville\SoccerStatsApplication\obj\Debug\netcoreapp3.1\SoccerStats.csproj.CopyComplete
